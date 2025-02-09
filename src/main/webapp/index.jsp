@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>Welcome to Our  Ideal Institute of Technology</h1>
+        <h1>Welcome to Our  Kiet Institute of Technology</h1>
         <h3>Kakinda - 533002</h3>
     </header>
 
