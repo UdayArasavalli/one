@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>Welcome to Our College</h1>
+        <h1>Welcome to Our  Idal Institute of Technology</h1>
     </header>
 
     <nav>
