@@ -94,6 +94,7 @@
 
     <header>
         <h1>Welcome to Our  Idal Institute of Technology</h1>
+        <h3>Kakinda - 533002</h3>
     </header>
 
     <nav>
